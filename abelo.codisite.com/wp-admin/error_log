@@ -1,0 +1,2850 @@
+[27-Dec-2024 16:22:34 UTC] Search query: D
+[27-Dec-2024 16:22:34 UTC] Search query: D
+[27-Dec-2024 16:22:34 UTC] Search query: De
+[27-Dec-2024 16:22:34 UTC] Search query: Den
+[27-Dec-2024 16:22:38 UTC] Search query: Denpa
+[27-Dec-2024 16:22:38 UTC] Search query: Denpas
+[27-Dec-2024 16:22:38 UTC] Search query: Denpas
+[27-Dec-2024 16:22:38 UTC] Search query: Denpasar
+[27-Dec-2024 16:22:38 UTC] Search query: Denpasa
+[27-Dec-2024 16:22:39 UTC] Search query: Denpasar
+[27-Dec-2024 16:24:42 UTC] Search query: d
+[27-Dec-2024 16:24:42 UTC] Search query: de
+[27-Dec-2024 16:24:43 UTC] Search query: den
+[27-Dec-2024 16:24:44 UTC] Search query: denp
+[27-Dec-2024 16:24:45 UTC] Search query: denpas
+[27-Dec-2024 16:24:45 UTC] Search query: denpas
+[27-Dec-2024 16:26:47 UTC] Search query: d
+[27-Dec-2024 16:26:48 UTC] Search query: de
+[27-Dec-2024 16:26:48 UTC] Search query: den
+[27-Dec-2024 16:26:48 UTC] Search query: denp
+[27-Dec-2024 16:26:48 UTC] Search query: denpa
+[27-Dec-2024 16:26:49 UTC] Search query: denpas
+[27-Dec-2024 16:26:49 UTC] Search query: denpasa
+[27-Dec-2024 16:26:49 UTC] Search query: denpasar
+[27-Dec-2024 16:26:53 UTC] Search query: D
+[27-Dec-2024 16:26:53 UTC] Search query: D
+[27-Dec-2024 16:26:54 UTC] Search query: De
+[27-Dec-2024 16:26:54 UTC] Search query: Den
+[27-Dec-2024 16:26:54 UTC] Search query: Denpasa
+[27-Dec-2024 16:26:54 UTC] Search query: Denpa
+[27-Dec-2024 16:26:54 UTC] Search query: Denpas
+[27-Dec-2024 16:26:54 UTC] Search query: Denpasar
+[27-Dec-2024 16:26:54 UTC] Search query: Denpasa
+[27-Dec-2024 16:27:17 UTC] Search query: denpas
+[27-Dec-2024 16:27:17 UTC] Search query: denpas
+[27-Dec-2024 16:27:20 UTC] Search query: d
+[27-Dec-2024 16:27:20 UTC] Search query: de
+[27-Dec-2024 16:27:20 UTC] Search query: den
+[27-Dec-2024 16:27:20 UTC] Search query: denp
+[27-Dec-2024 16:27:21 UTC] Search query: denpas
+[27-Dec-2024 16:27:21 UTC] Search query: denpas
+[27-Dec-2024 16:27:21 UTC] Search query: denpasa
+[27-Dec-2024 16:27:22 UTC] Search query: denpasar
+[27-Dec-2024 16:35:36 UTC] 
+[27-Dec-2024 17:04:07 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:04:07 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:04:07 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:04:07 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:04:07 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:04:07 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:05:52 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:05:52 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:05:53 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:05:53 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:05:53 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:05:53 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.54
+            [feels_like] => 30.61
+            [temp_min] => 27.54
+            [temp_max] => 27.54
+            [pressure] => 1012
+            [humidity] => 77
+            [sea_level] => 1012
+            [grnd_level] => 1012
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 4.6
+            [deg] => 43
+            [gust] => 5.88
+        )
+
+    [rain] => Array
+        (
+            [1h] => 2.37
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735319047
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:57:42 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:57:42 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:57:42 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.4
+            [feels_like] => 30.3
+            [temp_min] => 27.4
+            [temp_max] => 27.4
+            [pressure] => 1011
+            [humidity] => 77
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 3.44
+            [deg] => 43
+            [gust] => 4.52
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322262
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:57:42 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.4
+            [feels_like] => 30.3
+            [temp_min] => 27.4
+            [temp_max] => 27.4
+            [pressure] => 1011
+            [humidity] => 77
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 3.44
+            [deg] => 43
+            [gust] => 4.52
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322262
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 17:57:42 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 17:57:43 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.4
+            [feels_like] => 30.3
+            [temp_min] => 27.4
+            [temp_max] => 27.4
+            [pressure] => 1011
+            [humidity] => 77
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 3.44
+            [deg] => 43
+            [gust] => 4.52
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322262
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:24 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:24 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:24 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:24 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:24 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:24 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:24 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:24 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:25 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:25 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:28 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:28 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:29 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:29 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:29 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:29 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:29 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:29 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:29 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:30 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:31 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:31 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:31 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:31 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:31 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:31 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:35 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:35 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:35 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:35 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:35 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:35 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:36 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:36 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:40 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:40 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:40 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:41 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:41 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:41 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:43 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=-6.2146&lon=106.8451&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:43 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 106.8451
+            [lat] => -6.2146
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 801
+                    [main] => Clouds
+                    [description] => few clouds
+                    [icon] => 02n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.31
+            [feels_like] => 30.44
+            [temp_min] => 25.5
+            [temp_max] => 27.83
+            [pressure] => 1010
+            [humidity] => 80
+            [sea_level] => 1010
+            [grnd_level] => 1008
+        )
+
+    [visibility] => 6000
+    [wind] => Array
+        (
+            [speed] => 1.54
+            [deg] => 240
+        )
+
+    [clouds] => Array
+        (
+            [all] => 20
+        )
+
+    [dt] => 1735322176
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9383
+            [country] => ID
+            [sunrise] => 1735339180
+            [sunset] => 1735384106
+        )
+
+    [timezone] => 25200
+    [id] => 1642911
+    [name] => Jakarta
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:44 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:44 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:44 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:44 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:44 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:44 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:44 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:44 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:48 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:48 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:48 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:49 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:49 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:49 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:49 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:49 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:49 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:49 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:49 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:49 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:50 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:50 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:50 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:50 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=8.65&lon=115.2167&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:50 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:50 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 115.2167
+            [lat] => 8.65
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => moderate rain
+                    [icon] => 10n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 27.81
+            [feels_like] => 30.81
+            [temp_min] => 27.81
+            [temp_max] => 27.81
+            [pressure] => 1011
+            [humidity] => 74
+            [sea_level] => 1011
+            [grnd_level] => 1011
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 5.97
+            [deg] => 35
+            [gust] => 6.71
+        )
+
+    [rain] => Array
+        (
+            [1h] => 1.78
+        )
+
+    [clouds] => Array
+        (
+            [all] => 100
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [sunrise] => 1735338714
+            [sunset] => 1735380553
+        )
+
+    [timezone] => 28800
+    [id] => 0
+    [name] => 
+    [cod] => 200
+)
+
+[27-Dec-2024 18:04:50 UTC] Weather API URL: https://api.openweathermap.org/data/2.5/weather?lat=52.0125&lon=6.1389&units=metric&appid=71fdd4a0d769a219462790af4e88d638
+[27-Dec-2024 18:04:50 UTC] API Response: Array
+(
+    [coord] => Array
+        (
+            [lon] => 6.1389
+            [lat] => 52.0125
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => clear sky
+                    [icon] => 01n
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 1.74
+            [feels_like] => 1.74
+            [temp_min] => 0.04
+            [temp_max] => 2.81
+            [pressure] => 1032
+            [humidity] => 99
+            [sea_level] => 1032
+            [grnd_level] => 1030
+        )
+
+    [visibility] => 10000
+    [wind] => Array
+        (
+            [speed] => 0.9
+            [deg] => 137
+            [gust] => 0.88
+        )
+
+    [clouds] => Array
+        (
+            [all] => 5
+        )
+
+    [dt] => 1735322664
+    [sys] => Array
+        (
+            [type] => 2
+            [id] => 2016716
+            [country] => NL
+            [sunrise] => 1735285411
+            [sunset] => 1735313374
+        )
+
+    [timezone] => 3600
+    [id] => 2756772
+    [name] => Doesburg
+    [cod] => 200
+)
+
